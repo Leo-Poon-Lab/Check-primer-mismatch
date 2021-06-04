@@ -1,0 +1,127 @@
+﻿Name,Position,Ref_base,mut_rate_precentage,Location
+Probe_N,29179,G,3.32929,Asia
+Probe_N,29194,T,0.94308,North America
+Probe_N,29179,G,0.31656,Europe
+Probe_N,29179,G,0.28158,Africa
+Probe_N,29195,G,0.16504,South America
+Probe_N,29179,G,0.13636,North America
+Probe_N,29179,G,0.12917,South America
+Probe_N,29195,G,0.08916,Europe
+Probe_N,29194,T,0.06329,Oceania
+Probe_N,29195,G,0.03893,North America
+Probe_N,29185,T,0.0287,South America
+Probe_N,29195,G,0.02528,Asia
+Probe_N,29182,A,0.02153,South America
+Probe_N,29194,T,0.02153,South America
+Probe_N,29188,A,0.01692,North America
+Probe_N,29183,A,0.01657,Europe
+Probe_N,29188,A,0.01644,Europe
+Probe_N,29194,T,0.01524,Europe
+Probe_N,29188,A,0.01435,South America
+Probe_N,29182,A,0.0128,Africa
+Probe_N,29188,A,0.0128,Africa
+Probe_N,29194,T,0.0128,Africa
+Probe_N,29195,G,0.0128,Africa
+Probe_N,29190,A,0.0127,Europe
+Probe_N,29185,T,0.01256,Europe
+Probe_N,29190,A,0.01015,North America
+Probe_N,29194,T,0.01011,Asia
+Probe_N,29192,T,0.00895,Europe
+Probe_N,29177,C,0.00842,Europe
+Probe_N,29183,A,0.00718,South America
+Probe_N,29186,G,0.00718,South America
+Probe_N,29191,A,0.00718,South America
+Probe_N,29189,C,0.00674,Asia
+Probe_N,29177,C,0.00508,North America
+Probe_N,29185,T,0.00508,North America
+Probe_N,29177,C,0.00505,Asia
+Probe_N,29185,T,0.00505,Asia
+Probe_N,29191,A,0.00468,Europe
+Probe_N,29192,T,0.00459,North America
+Probe_N,29191,A,0.00411,North America
+Probe_N,29188,A,0.00337,Asia
+Probe_N,29181,A,0.00267,Europe
+Probe_N,29193,T,0.00241,Europe
+Probe_N,29183,A,0.00193,North America
+Probe_N,29187,C,0.00193,North America
+Probe_N,29192,T,0.00169,Asia
+Probe_N,29193,T,0.00169,Asia
+Probe_N,29196,C,0.00169,Asia
+Probe_N,29181,A,0.00169,North America
+Probe_N,29176,G,0.00168,Asia
+Probe_N,29190,A,0.00168,Asia
+Probe_N,29191,A,0.00168,Asia
+Probe_N,29178,C,0.00145,North America
+Probe_N,29186,G,0.00121,North America
+Probe_N,29186,G,0.00107,Europe
+Probe_N,29182,A,9.4e-4,Europe
+Probe_N,29187,C,5.3e-4,Europe
+Probe_N,29182,A,4.8e-4,North America
+Probe_N,29189,C,2.7e-4,Europe
+Probe_N,29176,G,2.4e-4,North America
+Probe_N,29180,C,2.4e-4,North America
+Probe_N,29193,T,2.4e-4,North America
+Probe_N,29178,C,1.3e-4,Europe
+Probe_N,29180,C,1.3e-4,Europe
+Probe_N,29196,C,1.3e-4,Europe
+Probe_N,29176,G,0,Africa
+Probe_N,29177,C,0,Africa
+Probe_N,29178,C,0,Africa
+Probe_N,29180,C,0,Africa
+Probe_N,29181,A,0,Africa
+Probe_N,29183,A,0,Africa
+Probe_N,29184,T,0,Africa
+Probe_N,29185,T,0,Africa
+Probe_N,29186,G,0,Africa
+Probe_N,29187,C,0,Africa
+Probe_N,29189,C,0,Africa
+Probe_N,29190,A,0,Africa
+Probe_N,29191,A,0,Africa
+Probe_N,29192,T,0,Africa
+Probe_N,29193,T,0,Africa
+Probe_N,29196,C,0,Africa
+Probe_N,29176,G,0,Europe
+Probe_N,29184,T,0,Europe
+Probe_N,29178,C,0,Asia
+Probe_N,29180,C,0,Asia
+Probe_N,29181,A,0,Asia
+Probe_N,29182,A,0,Asia
+Probe_N,29183,A,0,Asia
+Probe_N,29184,T,0,Asia
+Probe_N,29186,G,0,Asia
+Probe_N,29187,C,0,Asia
+Probe_N,29184,T,0,North America
+Probe_N,29189,C,0,North America
+Probe_N,29196,C,0,North America
+Probe_N,29176,G,0,Oceania
+Probe_N,29177,C,0,Oceania
+Probe_N,29178,C,0,Oceania
+Probe_N,29179,G,0,Oceania
+Probe_N,29180,C,0,Oceania
+Probe_N,29181,A,0,Oceania
+Probe_N,29182,A,0,Oceania
+Probe_N,29183,A,0,Oceania
+Probe_N,29184,T,0,Oceania
+Probe_N,29185,T,0,Oceania
+Probe_N,29186,G,0,Oceania
+Probe_N,29187,C,0,Oceania
+Probe_N,29188,A,0,Oceania
+Probe_N,29189,C,0,Oceania
+Probe_N,29190,A,0,Oceania
+Probe_N,29191,A,0,Oceania
+Probe_N,29192,T,0,Oceania
+Probe_N,29193,T,0,Oceania
+Probe_N,29195,G,0,Oceania
+Probe_N,29196,C,0,Oceania
+Probe_N,29176,G,0,South America
+Probe_N,29177,C,0,South America
+Probe_N,29178,C,0,South America
+Probe_N,29180,C,0,South America
+Probe_N,29181,A,0,South America
+Probe_N,29184,T,0,South America
+Probe_N,29187,C,0,South America
+Probe_N,29189,C,0,South America
+Probe_N,29190,A,0,South America
+Probe_N,29192,T,0,South America
+Probe_N,29193,T,0,South America
+Probe_N,29196,C,0,South America
